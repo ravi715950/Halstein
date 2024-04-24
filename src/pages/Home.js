@@ -1,9 +1,9 @@
 import React from 'react'
 import Slider from '../components/homepage/banner/Slider';
-// import About from '../body/about-breif/About';
-// import Features from './componets/features/Features';
-// import BusinessServies from './componets/businessServies/BusinessServies';
-// import Applynow from './componets/applynow/Applynow';
+import Features from '../components/homepage/features/Features';
+import BusinessServies from '../components/homepage/businessServies/BusinessServies';
+import Applynow from '../components/homepage/applynow/Applynow';
+
 
 
 function Home() {
@@ -14,10 +14,10 @@ function Home() {
       title2 ="to make sure your business"
       title3 = " endeavor succeeds. Trust our experts."
       ceo="ALEX LEE, CEO"
-      />
+      /> */}
       <Features/>
       <BusinessServies/>
-      <Applynow/> */}
+      <Applynow/>
       
     </>
   )
