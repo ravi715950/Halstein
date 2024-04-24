@@ -1,0 +1,24 @@
+.about-content{
+    max-width: 751px;
+    margin: 500px;
+}
+
+.about-breif{
+    padding: 120px;
+}
+.about-name{
+    padding-top: 26px;
+}
+
+/* @media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+    }
+  }
+  
+
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+  } */
