@@ -5,7 +5,7 @@ export default function Right() {
     <div>
       <div className="row">
         <div className="col-md-4">
-          <h5>Halstain</h5>
+          <h5>Halstein</h5>
           <div>
             <ul className="list ">
               <li className="list-item d-flex justify-content-start ">

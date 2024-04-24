@@ -12,7 +12,7 @@ const Navbar=()=> {
               to="/"
               className="navbar-brand d-flex align-items-center justify-content-center"
               >
-              <h2>HALSTAIN</h2>
+              <h2>HALSTEIN</h2>
             </NavLink>
           </div>
           <div className="col-lg-9">
@@ -28,7 +28,7 @@ const Navbar=()=> {
             </div>
             <nav className="navbar navbar-expand-lg bg-white navbar-light p-0">
               <NavLink to="/" className="navbar-brand d-block d-lg-none">
-              <h1 className="m-0 display-4 text-dark text-uppercase">HALSTAIN</h1>
+              <h1 className="m-0 display-4 text-dark text-uppercase">HALSTEIN</h1>
               </NavLink>
               <button
                 type="button"

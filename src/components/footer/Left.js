@@ -7,7 +7,7 @@ export default function Left() {
 
     <div className="m-0 display-4 text-uppercase ">
 
-<h2 className="logo3">Halstain</h2>
+<h2 className="logo3">Halstein</h2>
     </div>
 <p className='margin-y-30px'>
     Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br/> Itaque voluptatem facilis corrupti dicta.<br/> Cupiditate magni, modi rem,  Nam iusto accusantium consequuntur?
