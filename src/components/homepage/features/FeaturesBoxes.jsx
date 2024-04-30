@@ -9,16 +9,16 @@ export default function FeaturesBoxes() {
 
         <div className="row m-auto padding-y-150px px-auto">
             <div className="col-md-6">
-                <Box title = "yearly project" digit ={23}/>
+                <Box title = "Clients" digit ={80}/>
             </div>
             <div className="col-md-6">
-                <Box title = "Yearly project" digit ={23}/>
+                <Box title = "Years Experience" digit ={5}/>
             </div>
             <div className="col-md-6">
-                <Box title = "yearly project" digit ={23}/>
+                <Box title = "Projects" digit ={250}/>
             </div>
             <div className="col-md-6">
-                <Box title = "yearly project" digit ={23}/>
+                <Box title = "Field Experts" digit ={45}/>
             </div>
         </div>
         </Container>

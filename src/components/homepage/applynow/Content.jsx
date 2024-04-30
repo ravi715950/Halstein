@@ -28,7 +28,7 @@ const Content = () => {
       </p>
         </div>      
         </div>
-<div className="row onBottom ">
+<div className="row onBottom">
     <div className="col-8">
         <h4 className="mobile-size main3">
             

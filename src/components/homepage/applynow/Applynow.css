@@ -107,11 +107,14 @@ margin-bottom: 250px;
 
   } */
 
-  /* @media (max-width :425px) {
-    .mobile-size{
-      font-size: 20px;
-    }
-    p.mobile-size{
-      font-size: 12px;
-    }
-  } */
+
+  @media screen and (max-width: 600px) {
+    .ontop{
+      left: 10px;
+  }
+
+  .onBottom{
+    display: none;
+  }
+
+  } 

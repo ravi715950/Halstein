@@ -240,3 +240,11 @@ textarea {
   transition: color 0.3s ease-out, background-color 0.3s ease-out,
     border-color 0.3s ease-out;
 }
+
+
+@media screen and (max-width: 600px) {
+  .padding-y-150px {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+} 
